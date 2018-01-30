@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\КрутойКалькуль\\КрутойКалькуль\\КрутойКалькуль.csproj",
+      "projectUniqueName": "F:\\GitHub\\calc\\КрутойКалькуль\\КрутойКалькуль\\КрутойКалькуль.csproj",
       "projectName": "КрутойКалькуль",
-      "projectPath": "C:\\Users\\User\\source\\repos\\КрутойКалькуль\\КрутойКалькуль\\КрутойКалькуль.csproj",
+      "projectPath": "F:\\GitHub\\calc\\КрутойКалькуль\\КрутойКалькуль\\КрутойКалькуль.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\КрутойКалькуль\\КрутойКалькуль\\obj\\",
+      "outputPath": "F:\\GitHub\\calc\\КрутойКалькуль\\КрутойКалькуль\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -29,7 +29,7 @@ namespace КрутойКалькуль
             if (result1)
             {
                 //do someth
-                // Console.Write("я молодец");
+              Console.Write("я молодец");
             }
             else
             {
