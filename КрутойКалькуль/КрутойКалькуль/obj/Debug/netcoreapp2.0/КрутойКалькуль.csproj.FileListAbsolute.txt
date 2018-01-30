@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\obj\Debug\netcoreapp2.0\КрутойКалькуль.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\obj\Debug\netcoreapp2.0\КрутойКалькуль.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\obj\Debug\netcoreapp2.0\КрутойКалькуль.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\obj\Debug\netcoreapp2.0\КрутойКалькуль.AssemblyInfo.cs
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\bin\Debug\netcoreapp2.0\КрутойКалькуль.deps.json
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\bin\Debug\netcoreapp2.0\КрутойКалькуль.runtimeconfig.json
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\bin\Debug\netcoreapp2.0\КрутойКалькуль.runtimeconfig.dev.json
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\bin\Debug\netcoreapp2.0\КрутойКалькуль.dll
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\bin\Debug\netcoreapp2.0\КрутойКалькуль.pdb
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\obj\Debug\netcoreapp2.0\КрутойКалькуль.dll
+C:\Users\User\source\repos\КрутойКалькуль\КрутойКалькуль\obj\Debug\netcoreapp2.0\КрутойКалькуль.pdb
