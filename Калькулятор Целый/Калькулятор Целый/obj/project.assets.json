@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Калькулятор Целый\\Калькулятор Целый\\Калькулятор Целый.csproj",
+      "projectUniqueName": "F:\\GitHub\\calc\\Калькулятор Целый\\Калькулятор Целый\\Калькулятор Целый.csproj",
       "projectName": "Калькулятор Целый",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Калькулятор Целый\\Калькулятор Целый\\Калькулятор Целый.csproj",
+      "projectPath": "F:\\GitHub\\calc\\Калькулятор Целый\\Калькулятор Целый\\Калькулятор Целый.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Калькулятор Целый\\Калькулятор Целый\\obj\\",
+      "outputPath": "F:\\GitHub\\calc\\Калькулятор Целый\\Калькулятор Целый\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
